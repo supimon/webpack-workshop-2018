@@ -19,5 +19,8 @@
   "homepage": "https://github.com/TheLarkInn/webpack-workshop-2018#readme",
   "devDependencies": {
     "http-server": "^0.11.1"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
   }
 }
